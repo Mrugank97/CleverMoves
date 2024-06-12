@@ -43,7 +43,7 @@ g++ -o tictactoe tictactoe.c
 g++ -o sudoku sudoku.cpp
 
 # Run Sudoku Solver
-./sudoku < puzzle.sudoku.txt
+./sudoku < puzzle.sudoku
 ```
 
 #### Future Work
