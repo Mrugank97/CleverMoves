@@ -43,7 +43,7 @@ g++ -o tictactoe tictactoe.c
 g++ -o sudoku sudoku.cpp
 
 # Run Sudoku Solver
-./sudoku < input_sudoku.txt #input the half filled sudoku txt file
+./sudoku < puzzle.sudoku.txt
 ```
 
 #### Future Work
